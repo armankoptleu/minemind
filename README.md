@@ -379,3 +379,72 @@ Clone repository:
 
 ```bash
 git clone https://github.com/armankoptleu/minemind.git
+
+Move into project:
+npm install
+
+Install dependencies:
+npm install
+
+Run development server:
+npm run dev
+
+Build production:
+npm run build
+
+Project Structure
+minemind/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── assets/
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── README.md
+
+Current Limitations
+
+Prototype limitations:
+
+* no real authentication
+* no backend database
+* leaderboard is demo-only
+* payment is demo-only
+* Pro is simulated
+* no multiplayer
+* no cloud sync
+
+## Future Improvements
+
+Planned upgrades:
+
+* Supabase authentication
+* Firebase auth
+* real user accounts
+* backend leaderboard
+* live city competition
+* multiplayer mode
+* tournament mode
+* Stripe payments
+* Kaspi integration
+* replay engine
+* premium cosmetics
+* stronger probability solver
+
+Why MineMind Matters
+
+MineMind proves that even a classic game can become a modern digital product when combined with:
+
+* smart UX
+* business thinking
+* AI-inspired features
+* competition
+* learning mechanics
+
+This is not just a coding exercise.
+
+Author
+Built by Arman Koptleu
