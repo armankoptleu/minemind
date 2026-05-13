@@ -451,6 +451,7 @@ MineMind proves that even a classic game can become a modern digital product whe
 * learning mechanics
 
 This is not just a coding exercise.
+It is a startup-style product prototype.
 
 Author
 Built by Arman Koptleu
