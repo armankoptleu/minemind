@@ -398,6 +398,7 @@ Build production:
 npm run build
 ```
 Project Structure
+```bash
 minemind/
 ├── public/
 ├── src/
@@ -409,8 +410,8 @@ minemind/
 ├── package-lock.json
 ├── vite.config.js
 ├── README.md
-
-Current Limitations
+```
+## Current Limitations
 
 Prototype limitations:
 
@@ -439,7 +440,7 @@ Planned upgrades:
 * premium cosmetics
 * stronger probability solver
 
-Why MineMind Matters
+## Why MineMind Matters
 
 MineMind proves that even a classic game can become a modern digital product when combined with:
 
