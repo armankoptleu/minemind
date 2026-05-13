@@ -383,7 +383,7 @@ git clone https://github.com/armankoptleu/minemind.git
 
 Move into project:
 ```bash
-npm install
+cd minemind
 ```
 Install dependencies:
 ```bash
